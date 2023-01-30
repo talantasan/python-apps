@@ -17,3 +17,10 @@ print(list3)
 # remove given index value from the list
 list3.pop(2)
 print(list3)
+
+# remove way3
+del list3[0]
+print(list3)
+
+# completely remove list3
+del list3

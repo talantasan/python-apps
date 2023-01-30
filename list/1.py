@@ -22,3 +22,12 @@ print(list1)
 # Negative indexes gets from the last of the indexing
 print(list1[-4])
 
+# Len
+print(len(list1))
+
+list2 = ['talant', 2, False]
+print(list2)
+print(type(list2))
+print(type(list2[1]))
+print(type(list2[2]))
+
